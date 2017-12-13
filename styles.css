@@ -1,0 +1,9 @@
+div.center {
+   width: 100%;
+   text-align:center;
+}
+
+#signature {
+  margin: 30px;
+  text-align: center;
+}
